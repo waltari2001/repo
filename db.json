@@ -1,7 +1,7 @@
 {
   "posts": [
     {
-      "id": 1,
+      "myid": 1,
       "title": "val1"
     },
      {
