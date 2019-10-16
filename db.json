@@ -1,8 +1,9 @@
 {
   "posts": [
     {
-      "myid": 1,
-      "mytitle": "val1"
+      "id": 1,
+      "mytitle": { "sk1": "sv1", "sk2": "sv2", "sk3": "sv3" },
+      "myval": [ { "sk1": "sv1" }, { "sk2": "sv2" }, { "sk3": "sv3" } ]
     },
      {
       "id": 2,
